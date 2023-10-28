@@ -1,0 +1,28 @@
+{"version": 6,
+ "packagesDir": "lake-packages",
+ "packages":
+ [{"git":
+   {"url": "https://github.com/KislyjKisel/lean-pod",
+    "subDir?": null,
+    "rev": "6530f3d6def9ddf9e876780f5a579ecaa0d01bd5",
+    "opts": {},
+    "name": "pod",
+    "inputRev?": "main",
+    "inherited": false}},
+  {"git":
+   {"url": "https://github.com/hargonix/nest-core",
+    "subDir?": null,
+    "rev": "f5650cdde7580b5e0d2ba3301ae265fe3a51baf2",
+    "opts": {},
+    "name": "«nest-core»",
+    "inputRev?": "main",
+    "inherited": false}},
+  {"git":
+   {"url": "https://github.com/hargonix/nest-unit",
+    "subDir?": null,
+    "rev": "b4440f3ca866c3d19c3cb593698e2f9314239634",
+    "opts": {},
+    "name": "«nest-unit»",
+    "inputRev?": "main",
+    "inherited": false}}],
+ "name": "«klg-fxwfxp»"}
